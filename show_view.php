@@ -11,6 +11,6 @@
     <title>Document</title>
 </head>
 <body>
-    <img src="/uploads/image.jpg" alt="">
+    <img src="uploads/image.jpg" alt="">
 </body>
 </html>
